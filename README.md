@@ -91,7 +91,7 @@ This file is a readable text export, not a native EVTX export or a complete fore
 
 - [Selected failed-logon evidence](failed-logon-evidence.txt)
 - [Audit policy](01-audit-policy.png)
-- [Failed runas attempt](02-failed-logon-test.png)
+- [Failed runas attempt](02-failed-login-test.png)
 - [Event account and failure details](03-event-details.png)
 - [Process and source information](04-process-and-source.png)
 
